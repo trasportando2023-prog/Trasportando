@@ -15,9 +15,7 @@ nav ul { display: flex; list-style: none; }
 nav ul li { margin-left: 20px; }
 nav ul li a { color: #fff; text-decoration: none; font-weight: bold; transition: color 0.3s; }
 nav ul li a:hover { color: #c53030; }
-.hero {
-  background: url('img/camion.jpg') no-repeat center center/cover;
-}.https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=80;
+.hero {background: url('img/camion.jpg') no-repeat center center/cover;
   color: #fff; height: 80vh; display: flex; flex-direction: column; justify-content: center;
   align-items: center; text-align: center; padding: 2rem;
 }
